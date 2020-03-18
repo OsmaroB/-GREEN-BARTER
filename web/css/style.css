@@ -1,0 +1,357 @@
+
+.color-index-seccion-2{
+    background-color: #0C66BC !important;
+}
+/*Tamaño de texto*/
+h3.objetivos{
+    font-size: 25px;
+    line-height: 35px;
+}
+li{
+    font-size: 20px;
+    line-height: 35px;
+}
+.text-medium {
+    font-size: 23px;
+    line-height: 35px;
+}
+.text-cards{
+    font-size: 19px;
+}
+.text-title{
+    font-size: 50px;
+    font-weight: 200;
+    
+}
+.card-title-name{
+    font-size: 25px;
+}
+.card-title-price{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.text-large{
+    font-size: 35px;
+    line-height: 35px;
+}
+.text-large-xl{
+    font-size: 70px;
+    line-height: 70px;
+}
+
+.style-text-box{ 
+    height: 100px !important;
+}
+/*Fin de tamaño de texto*/
+
+
+
+/*Alineado de texro*/
+.text-justify{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
+.center{
+    align-items: center;
+    justify-content: center;
+}
+
+/* FIN DE Alineado */
+
+
+
+/*SECCION DE BACKGROUND*/
+.background-navbar{
+    background-color: transparent !important;
+}
+.background-seccion{
+    background-color: rgb(66, 170, 135) !important;
+}
+.background-button{
+    background-color: rgb(66, 170, 135) !important;
+    color: white;
+}
+.background-button:hover{
+    background-color: transparent !important;
+    border: solid;
+    border-color: rgb(66, 170, 135) !important;
+    color: white;
+}
+.background-button-light{
+    
+    background-color: transparent !important;
+    border: solid;
+    border-color: rgb(66, 170, 135) !important;
+    color: rgb(66, 170, 135);
+}
+.background-button-light:hover{
+    background-color: rgb(66, 170, 135) !important;
+    color: white;
+}
+/*SECCION DE BACKGROUND*/
+
+.up-100{
+    height: 100px;
+}
+.up-30{
+    height: 30px;
+}
+.up-50{
+    height: 50px;
+}
+
+
+.margin-40px-bottom {
+    margin-bottom: 40px;
+}
+.margin-auto {
+    margin-right: auto!important;
+}
+.block {
+    display: block!important;
+}
+.no-padding{
+    padding: 0%;
+}
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+.up-200{
+    height: 100px;
+}
+*{
+    font-family: 'Segoe UI Light', sans-serif;
+    font-weight: 500;
+}
+.space{
+    height: 100px;
+    padding: 70px 0;
+}
+  .font-weight-600 {
+    font-weight: 600;
+}
+.padding-sm{
+    padding: 0px !important;
+}
+/*ESTA SERVIRA PARA LA SECCION SEGUNDA SECCION EN EL INDEX CUANDO ESTEN EN TABLETS*/
+@media (max-width: 1100px) and (max-height: 800px)  {
+    .background-bussines {
+        height: 700px !important; 
+    }
+    .background-bussines-2{
+        height: 900px !important; 
+    }
+}
+/*ESTA SERVIRA PARA LA SECCION DE LOS PRECIOS EN EL INDEX*/
+@media(max-width : 800px) and (max-height: 1200px){
+    .background-blue-card{
+        height: 2200px !important;
+    }
+    .padding-sm{
+        padding: 20px !important;
+    }
+}
+/*ESTA SERVIRA PARA LA SECCION DE LOS PRECIOS EN EL INDEX*/
+@media(max-width : 400px) and (max-height: 850px){
+    .background-blue-card{
+        height: 2650px !important;
+    }
+    .padding-sm{
+        padding: 20px !important;
+    }
+}
+/*ESTA SERVIRA PARA LA SECCION DE LOS PRECIOS EN EL INDEX*/
+@media(max-width : 850px) and (max-height: 500px){
+    .background-blue-card{
+        height: 2200px !important;
+    }
+    .padding-sm{
+        padding: 20px !important;
+    }
+}
+@media (max-width: 1100px) and (max-height: 1400px)  {
+    .background-bussines {
+        height: 700px !important; 
+    }
+    .background-bussines-2{
+        height: 900px !important; 
+    }
+}
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+.anchoCarrousel{
+   width: 100%;
+   height: 600px;
+   
+}
+.br{
+    display: inline;
+    line-height:   150pt;
+}
+.img-50w-50h{
+    width: 350px;
+    height: 170px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color:lightblue !important;
+}
+.background-jumbotron{
+    background-image: url("../img/index/01.jpg");
+    
+    width: 100%;
+    height: 700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-jumbotron-product{
+    background-image: url("../img/producto/01.jpg");
+    
+    width: 100%;
+    height: 700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-jumbotron-shop{
+    background-image: url("../img/shop/01.jpg");
+    
+    width: 100%;
+    height: 500px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-bussines{
+    background-image: url("../img/index/02.jpg");
+    width: 100%;
+    height: 500px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-bussines-2{
+    background-image: url("../img/index/adult-business-meeting-business.jpg");
+    width: 100%;
+    height: 700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-blue-card{
+    background-image: url("../img/index/02.gif");
+    width: 100%;
+    height: 900px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*SECCION DE VALORES Y EQUIPO*/
+.background-valores{
+    background-image: url("../img/index/balance-cobblestone-conceptual-279470.jpg");
+    width: 100%;
+    height: 700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-objetivos{
+    background-image: url("../img/index/adults-award-best-1059118.jpg");
+    width: 100%;
+    height: 700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-estrategia{
+    background-image: url("../img/index/analysis-banking-businesswoman-1451448.jpg");
+    width: 100%;
+    height: 700px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-cuadrada{
+    width: 252px;
+    height: 252px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*CARDS COLOR*/
+.card-background{
+    background: transparent !important;;
+}
+a.producto{
+    color: black !important;
+}
+/*SECCION DE FOTOS*/
+
+.avatar-upload {
+    position: relative;
+    max-width: 205px;
+    margin: 25px auto;
+  }
+  .avatar-upload .avatar-edit {
+    position: absolute;
+    right: 12px;
+    z-index: 1;
+    top: 10px;
+  }
+  .avatar-upload .avatar-edit input {
+    display: none;
+  }
+  .avatar-upload .avatar-edit input + label {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0;
+    border-radius: 100%;
+    background: #FFFFFF;
+    border: 1px solid transparent;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    font-weight: normal;
+    transition: all 0.2s ease-in-out;
+    background-image: url("../../web/img/general/iconoo.png");
+    background-position: center;
+  }
+  .avatar-upload .avatar-edit input + label:hover {
+    background: #f1f1f1;
+    border-color: #d6d6d6;
+    background-image: url("../../web/img/general/iconoo.png");
+  }
+  .avatar-upload .avatar-edit input + label:after { 
+    font-family: 'FontAwesome';
+    color: #757575;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: auto;
+    background-image: url("../../web/img/general/iconoo.png");
+  }
+  .avatar-upload .avatar-preview {
+    width: 210px;
+    height: 210px;
+    position: relative;
+    border-radius: 100%;
+    border: 4px solid #F8F8F8;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+  }
+  .avatar-upload .avatar-preview > div {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }    
+
+  /*LABEL OSCURO*/
+  label.oscur{
+    color : #959595;
+  }
