@@ -43,6 +43,10 @@ function readURL(input) {
 $("#imageUpload").change(function() {
     readURL(this);
 });
+$("#mybtn").click(function(){
+	$("#exampleModal").modal("hide");
+});
+
 function bs_input_file() {
 	$(".input-file").before(
 		function() {

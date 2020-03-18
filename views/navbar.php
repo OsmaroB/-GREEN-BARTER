@@ -21,16 +21,18 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link text-cards text-white" href="index.php">Inicio <span class="sr-only">(current)</span></a>
+                <a class="nav-link text-cards white" href="registrar.php"  data-toggle="modal" data-target="#modalLogin">Iniciar Sesión</a>
             </li>
             <li class="nav-item ">
                 <a class="nav-link text-cards" href="shop.php">Compra ahora</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-cards" href="registrar.php">Quiero vender</a>
+                <a class="nav-link text-cards" href="registrar.php" data-toggle="modal" data-target="#exampleModal">Quiero vender</a>
             </li>
+            
+            
             <li class="nav-item">
-                <a class="nav-link text-cards" href="equipo.php">Donaciones</a>
+                <a class="nav-link  text-cards"  href="registrar.php"data-toggle="modal" data-target="#modalDonar">Quiero donar</a>
             </li>
             
             </ul>

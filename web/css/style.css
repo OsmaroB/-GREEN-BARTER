@@ -2,6 +2,9 @@
 .color-index-seccion-2{
     background-color: #0C66BC !important;
 }
+a.white{
+    color: white !important;
+}
 /*Tamaño de texto*/
 h3.objetivos{
     font-size: 25px;
