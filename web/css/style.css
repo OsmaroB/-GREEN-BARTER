@@ -147,6 +147,9 @@ li{
     .background-bussines-2{
         height: 900px !important; 
     }
+    .background-jumbotron{
+        height: 1300px !important;
+    }
 }
 /*ESTA SERVIRA PARA LA SECCION DE LOS PRECIOS EN EL INDEX*/
 @media(max-width : 800px) and (max-height: 1200px){
@@ -155,6 +158,9 @@ li{
     }
     .padding-sm{
         padding: 20px !important;
+    }
+    .background-jumbotron{
+        height: 1300px !important;
     }
 }
 /*ESTA SERVIRA PARA LA SECCION DE LOS PRECIOS EN EL INDEX*/
@@ -165,6 +171,9 @@ li{
     .padding-sm{
         padding: 20px !important;
     }
+    .background-jumbotron{
+        height: 1300px !important;
+    }
 }
 /*ESTA SERVIRA PARA LA SECCION DE LOS PRECIOS EN EL INDEX*/
 @media(max-width : 850px) and (max-height: 500px){
@@ -174,6 +183,9 @@ li{
     .padding-sm{
         padding: 20px !important;
     }
+    .background-jumbotron{
+        height: 1300px !important;
+    }
 }
 @media (max-width: 1100px) and (max-height: 1400px)  {
     .background-bussines {
@@ -181,6 +193,9 @@ li{
     }
     .background-bussines-2{
         height: 900px !important; 
+    }
+    .background-jumbotron{
+        height: 1300px !important;
     }
 }
 .vertical-center {
@@ -357,4 +372,14 @@ a.producto{
   /*LABEL OSCURO*/
   label.oscur{
     color : #959595;
+  }
+
+  .nav.nav-tabs{
+      background-color: transparent !important;
+  }
+  a.active.text-black{
+      color: black !important;
+  }
+  label.claro{
+      color: white !important;
   }
