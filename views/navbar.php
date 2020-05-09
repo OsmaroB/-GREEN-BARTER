@@ -90,6 +90,8 @@
         print('<div class="background-jumbotron-product ">');
     }else if($dato ==2){
         print('<div class="background-jumbotron-shop ">');
+    }else if($dato ==3){
+        print('<div class="background-jumbotron-detalle ">');
     }
     $clase="producto";
     if($dato ==2){

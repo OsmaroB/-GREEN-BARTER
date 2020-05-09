@@ -247,6 +247,14 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.background-jumbotron-detalle{
+    background-image: url("../img/shop/03.jpg");
+    
+    width: 100%;
+    height: 657px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .background-bussines{
     background-image: url("../img/index/02.jpg");
     width: 100%;
@@ -382,4 +390,7 @@ a.producto{
   }
   label.claro{
       color: white !important;
+  }
+  .margin-right{
+      margin-right: 20px;
   }
