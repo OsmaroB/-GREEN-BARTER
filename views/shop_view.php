@@ -52,41 +52,41 @@
         <div class="up-30"></div>
         <div class="col-3">
             <div class="card" style="width: 16rem;">
-            <p class="text-center"><img  src="../web/img/shop/example.jpg" class="card-img-top img-cuadrada" alt="..."></p>
+            <p class="text-center"><img  src="../web/img/producto/carton.jpg" class="card-img-top img-cuadrada" alt="..."></p>
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <h5 class="card-title">Carton de libros importados</h5>
+                <p class="card-text">Descripcion aqui!</p>
+                <a href="detalle.php" class="btn btn-primary">Ver detalles</a>
             </div>
             </div>
         </div>
         <div class="col-3">
             <div class="card" style="width: 16rem;">
-            <p class="text-center"><img  src="../web/img/shop/example.jpg" class="card-img-top img-cuadrada" alt="..."></p>
+            <p class="text-center"><img  src="../web/img/producto/protoboard.png" class="card-img-top img-cuadrada" alt="..."></p>
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <h5 class="card-title">protoboard usada</h5>
+                <p class="card-text">Descripcion aqui!</p>
+                <a href="detalle.php" class="btn btn-primary">Ver detalles</a>
             </div>
             </div>
         </div>
         <div class="col-3">
             <div class="card" style="width: 16rem;">
-            <p class="text-center"><img  src="../web/img/shop/example.jpg" class="card-img-top img-cuadrada" alt="..."></p>
+            <p class="text-center"><img  src="../web/img/producto/electronica.jpeg" class="card-img-top img-cuadrada" alt="..."></p>
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <h5 class="card-title">Teclados y CPUs antiguos</h5>
+                <p class="card-text">Descripcion aqui!</p>
+                <a href="detalle.php" class="btn btn-primary">Ver detalles</a>
             </div>
             </div>
         </div>
         <div class="col-3">
             <div class="card" style="width: 16rem;">
-            <p class="text-center"><img  src="../web/img/shop/example.jpg" class="card-img-top img-cuadrada" alt="..."></p>
+            <p class="text-center"><img  src="../web/img/producto/libros.jpg" class="card-img-top img-cuadrada" alt="..."></p>
             <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <h5 class="card-title">Libros de informatica</h5>
+                <p class="card-text">Descriocion aqui!</p>
+                <a href="detalle.php" class="btn btn-primary">Ver detalles</a>
             </div>
             </div>
         </div>
